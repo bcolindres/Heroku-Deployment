@@ -11,14 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kogsio/littletiers.git"
+    "url": "git+https://github.com/bcolindres/Heroku-Deployment.git"
   },
   "author": "abel@mit.edu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kogsio/littletiers/issues"
-  },
-  "homepage": "https://github.com/kogsio/littletiers#readme",
+    "url": "https://github.com/bcolindres/Heroku-Deployment/issues"
+},
+"homepage": "https://github.com/bcolindres/Heroku-Deployment#readme"
+,
   "dependencies": {
     "@faker-js/faker": "^7.4.0",
     "cors": "^2.8.5",
